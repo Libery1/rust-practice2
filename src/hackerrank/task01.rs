@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/birthday-cake-candles
+// https://www.hackerrank.com/challenges/birthday-cake-candles
 use std::io::{self, BufRead};
 
 fn birthday_cake_candles(candles: &[i32]) -> i32 {
